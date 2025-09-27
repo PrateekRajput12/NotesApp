@@ -7,3 +7,7 @@
 - Login Page
 - With tailwind 
 - Password input will be added in next step
+
+# Step-3 Password Input
+- Password input component 
+- use of regex

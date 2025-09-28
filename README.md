@@ -14,3 +14,8 @@
 
 # Step-4 Signup Page
 - Created
+
+
+# Step-5 Search Bar 
+- Created using icons 
+- clear icon 

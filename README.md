@@ -19,3 +19,7 @@
 # Step-5 Search Bar 
 - Created using icons 
 - clear icon 
+
+# Step-6 Note card
+- note card created 
+- responsive

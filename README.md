@@ -27,3 +27,7 @@
 # Step-7 ADD/EDIT note popup
 - done using react-modal
 - add and edit 
+
+# Step-8 Tag input
+- close and add 
+- delete 

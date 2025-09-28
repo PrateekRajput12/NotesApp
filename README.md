@@ -23,3 +23,7 @@
 # Step-6 Note card
 - note card created 
 - responsive
+
+# Step-7 ADD/EDIT note popup
+- done using react-modal
+- add and edit 
